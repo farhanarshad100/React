@@ -5,7 +5,7 @@ import Test from "./Test";
 const about = () =>{
 return(
   <>
- <Test name="We Start the Tutorial Home add some changes" imgsrc={Mr} visit="/contact" btname="Conatct Now" />
+ <Test name="We Start the Tutorial Home welcome 2 about" imgsrc={Mr} visit="/contact" btname="Conatct Now" />
   </>
 )
 }
